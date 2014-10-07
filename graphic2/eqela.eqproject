@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# Graphic2
+#
+
+projectname: Graphic2
+vendorid: com.mycompany
+mainmodule: com.mycompany.graphic2
